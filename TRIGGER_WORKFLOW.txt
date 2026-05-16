@@ -1,0 +1,1 @@
+Triggering GitHub Actions workflow to deploy with Firebase secrets
